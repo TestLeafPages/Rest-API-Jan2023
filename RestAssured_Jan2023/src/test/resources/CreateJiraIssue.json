@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "project": { "key": "JUN" },
+        "summary": "Creating a Test to check the new API Token",
+        "description": "I want pictures of Spiderman!",
+        "issuetype": { "name": "Task" }
+        
+    }
+}

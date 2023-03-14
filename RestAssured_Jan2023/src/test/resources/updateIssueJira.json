@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "project": { "key": "JUN" },
+        "summary": "Creating a Test to check the new API Token",
+        "description": "Update via chaining Put Request",
+        "issuetype": { "name": "Task" }
+        
+    }
+}
